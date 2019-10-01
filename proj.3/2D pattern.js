@@ -28,9 +28,6 @@ function draw() {
       noStroke();
       fill(250,190,40);
       ellipse(x,y,3,3);}}
-  drawstar
-  
-
   
   for(y=0; y<windowHeight; y+=random(100,150)) {
     for (x=0; x<windowWidth; x+=random(100,150)) {
